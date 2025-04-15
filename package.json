@@ -1,0 +1,22 @@
+{
+  "name": "childcare",
+  "version": "1.0.0",
+  "description": "My Childcare Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "Test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SkytecNZ/Childcare.git"
+  },
+  "author": "Nilantha Hewage",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SkytecNZ/Childcare/issues"
+  },
+  "homepage": "https://github.com/SkytecNZ/Childcare#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
