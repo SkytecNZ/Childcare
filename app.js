@@ -1,4 +1,4 @@
-onsole.log("Application is starting");
+console.log("Application is starting");
  
 const express = require('express')
 const app = express()
