@@ -1,4 +1,4 @@
-My Childcare project 
+# My Childcare project 
 Create a pjoject in Github with Readme file
 Open the project in VSCode by git clone
 Run npm install to install node mudules 
